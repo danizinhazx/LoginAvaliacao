@@ -3,8 +3,7 @@ Trabalo 5 Avaliação - App de Login
 O projeto consiste em um aplicativo Android nativo (Kotlin) que implementa um fluxo de autenticação completo, seguindo as diretrizes de Interface (XML) e Lógica (Kotlin) propostas.
 
 Alunas:
-Daniela Souza de Almeida
-Laís Pereira Silva
+Daniela Souza de Almeida e Laís Pereira Silva
 
 Funcionalidades Implementadas
 1.  Validação de Campos:
